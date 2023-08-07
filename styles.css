@@ -62,7 +62,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #ff7200;
+    color: rgb(185, 179, 179);
 }
 
 .search{
@@ -150,12 +150,12 @@ ul li a:hover{
 
 .content .cn a{
     text-decoration: none;
-    color: #fff;
+    color: white;
     transition: .3s ease;
 }
 
 .cn:hover{
-    background-color: #fff;
+    background-color: rgb(42, 163, 42);
 }
 
 .content span{
